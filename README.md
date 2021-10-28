@@ -16,7 +16,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/cloud-africa-technical-assessment.git
+    git clone https://github.com/FFOLA/cloud-africa-technical-assesment.git
 
 Switch to the repo folder
 
@@ -47,7 +47,7 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:gothinkster/cloud-africa-technical-assessment.git
+    git clone https://github.com/FFOLA/cloud-africa-technical-assesment.git
     cd cloud-africa-technical-assessment
     composer install
     cp .env.example .env
