@@ -76,4 +76,9 @@ The api can be accessed at [http://localhost:8000/api](http://localhost:8000/api
 
 - `.env` - Environment variables can be set in this file
 
+## API Postman Collection Link
+
+- https://www.getpostman.com/collections/446f79833e14ea4aca37
+
+
 ***Note*** : You can quickly set the database information and other variables in this file and have the application fully working.
