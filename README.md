@@ -20,7 +20,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd cloud-africa-technical-assessment
+    cd cloud-africa-technical-assesment
 
 Install all the dependencies using composer
 
@@ -48,7 +48,7 @@ You can now access the server at http://localhost:8000
 **TL;DR command list**
 
     git clone https://github.com/FFOLA/cloud-africa-technical-assesment.git
-    cd cloud-africa-technical-assessment
+    cd cloud-africa-technical-assesment
     composer install
     cp .env.example .env
     php artisan key:generate
